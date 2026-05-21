@@ -40,11 +40,7 @@ The architecture contains the following major layers:
 | Data Quality | Great Expectations | Validate data before/after transformation |
 | Orchestration | Apache Airflow | Schedule and monitor pipeline tasks |
 
-
+## 2. Datawarehouse Schema
 ![System Architecture](<Schema.png>)
 
-The architecture is suitable for learning and demonstrating real-world data engineering concepts such as:
 
-```text
-Data Lake → Lakehouse → Data Warehouse → Analytics
-```
