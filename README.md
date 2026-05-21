@@ -1,4 +1,4 @@
-# NYC Taxi Data Pipeline
+
 
 A complete data engineering project for building a modern batch and streaming data pipeline using the NYC Taxi dataset.  
 The project demonstrates how raw taxi trip data can be ingested, processed, validated, stored in a data lake/lakehouse, and transformed into an analytics-ready data warehouse.
