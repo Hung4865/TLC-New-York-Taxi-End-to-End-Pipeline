@@ -1,0 +1,9 @@
+nyc_data:
+  folder_path: data
+datalake:
+  hdfs_host: namenode
+  hdfs_port: 8020
+  bucket_name_1: raw
+  bucket_name_2: processed
+  bucket_name_3: sandbox
+  folder_name: batch
