@@ -41,6 +41,8 @@ The architecture contains the following major layers:
 | Orchestration | Apache Airflow | Schedule and monitor pipeline tasks |
 
 
+![System Architecture](<Schema.png>)
+
 The architecture is suitable for learning and demonstrating real-world data engineering concepts such as:
 
 ```text
